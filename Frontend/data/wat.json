@@ -1,0 +1,45 @@
+
+[{
+  "key": "%ycGwF1HijdVqjM2N46YRS6KJyUcB1qkIdv2WdIf6tLo=.sha256",
+  "value": {
+    "previous": "%JS9RecZBwcOgZHfuLzH6sYXGHhDQx97qd8tpNeeRFIA=.sha256",
+    "sequence": 1018,
+    "author": "@AbOOnturbvyBJ/fdEsweG1A6LJK1cQ6yh6bGceFzm18=.ed25519",
+    "timestamp": 1654509643292,
+    "hash": "sha256",
+    "content": {
+      "type": "speedtest",
+      "download": 50666754.840148106,
+      "upload": 18690871.58985498,
+      "ping": 99.84,
+      "isp": "New York University",
+      "lat": "40.7359",
+      "lon": "-73.9904",
+      "content": "{\"download\": 50666754.840148106, \"upload\": 18690871.58985498, \"ping\": 99.84, \"server\": {\"url\": \"http://speedtest.w-net.us:8080/speedtest/upload.php\", \"lat\": \"40.7127\", \"lon\": \"-74.0059\", \"name\": \"New York, NY\", \"country\": \"United States\", \"cc\": \"US\", \"sponsor\": \"Wnet\", \"id\": \"28025\", \"host\": \"speedtest.w-net.us:8080\", \"d\": 2.8915538289485103, \"latency\": 99.84}, \"timestamp\": \"2022-06-06T10:00:19.434817Z\", \"bytes_sent\": 23404544, \"bytes_received\": 63921716, \"share\": null, \"client\": {\"ip\": \"216.165.95.149\", \"lat\": \"40.7359\", \"lon\": \"-73.9904\", \"isp\": \"New York University\", \"isprating\": \"3.7\", \"rating\": \"0\", \"ispdlavg\": \"0\", \"ispulavg\": \"0\", \"loggedin\": \"0\", \"country\": \"US\"}}\n"
+    },
+    "signature": "VJAwQxg6jg58bLTIFn8BoK8xTMqsyLWlYJivxuxFkealjCQB+dafOzFkBU6+O80UrpyHdFzEA/DY7Nj7mYzVAA==.sig.ed25519"
+  },
+  "timestamp": 1654790998714
+},
+{
+  "key": "%ycGwF1HijdVqjM2N46YRS6KJyUcB1qkIdv2WdIf6tLo=.sha256",
+  "value": {
+    "previous": "%JS9RecZBwcOgZHfuLzH6sYXGHhDQx97qd8tpNeeRFIA=.sha256",
+    "sequence": 1018,
+    "author": "@AbOOnturbvyBJ/fdEsweG1A6LJK1cQ6yh6bGceFzm18=.ed25519",
+    "timestamp": 1654509643292,
+    "hash": "sha256",
+    "content": {
+      "type": "speedtest",
+      "download": 50666754.840148106,
+      "upload": 18690871.58985498,
+      "ping": 99.84,
+      "isp": "New York University",
+      "lat": "40.7359",
+      "lon": "-73.9904",
+      "content": "{\"download\": 50666754.840148106, \"upload\": 18690871.58985498, \"ping\": 99.84, \"server\": {\"url\": \"http://speedtest.w-net.us:8080/speedtest/upload.php\", \"lat\": \"40.7127\", \"lon\": \"-74.0059\", \"name\": \"New York, NY\", \"country\": \"United States\", \"cc\": \"US\", \"sponsor\": \"Wnet\", \"id\": \"28025\", \"host\": \"speedtest.w-net.us:8080\", \"d\": 2.8915538289485103, \"latency\": 99.84}, \"timestamp\": \"2022-06-06T10:00:19.434817Z\", \"bytes_sent\": 23404544, \"bytes_received\": 63921716, \"share\": null, \"client\": {\"ip\": \"216.165.95.149\", \"lat\": \"40.7359\", \"lon\": \"-73.9904\", \"isp\": \"New York University\", \"isprating\": \"3.7\", \"rating\": \"0\", \"ispdlavg\": \"0\", \"ispulavg\": \"0\", \"loggedin\": \"0\", \"country\": \"US\"}}\n"
+    },
+    "signature": "VJAwQxg6jg58bLTIFn8BoK8xTMqsyLWlYJivxuxFkealjCQB+dafOzFkBU6+O80UrpyHdFzEA/DY7Nj7mYzVAA==.sig.ed25519"
+  },
+  "timestamp": 1654790998714
+}]
