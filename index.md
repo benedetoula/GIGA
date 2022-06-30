@@ -28,4 +28,3 @@ The GIGA Node firmware is built on Linux OS and includes custom code to:
 - control the LED Light Indicator module and create light animations to visually communicate each stage of the Node activities
 - and run a blockchain node to permanenty store and archive data from the speedtests.   
 
-You can use the [editor on GitHub](https://github.com/benedetoula/GIGANode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
