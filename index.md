@@ -20,7 +20,7 @@ The Hardware design is mainly comprised of 3 elements:
 - **The Node:** this is the brain of the system, which runs speedtests, geo-location, a blockchain node and WiFi hotspot.
 - **The Power Electronics:** this includes a 15W photovoltaic panel (PV), a charge controller to properly charge the battery and all DC/DC converters needed to regulate the power to the Node.
 
-![Image](System%20Diagram2.png)
+![Image](systemdiagram.png)
 
 For a detailed [*Bill Of Materials*](https://docs.google.com/spreadsheets/d/1M344BFzDwndOonXr7UBz_JfK02XLmgQRAvrM4X4WKnk/edit#gid=0) please check this document.
 
