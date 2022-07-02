@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: GIGA Node
-color: #277aff
-a-color: #277aff
+color: #277AFF
+a-color: #277ADD
 logo: /giga_small.jpg
 description: Welcome to the GIGA Node! 
-a { color: #277aff; }
+a { color: #277AFF; }
