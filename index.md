@@ -28,6 +28,6 @@ The enclosure of the GIGA Node was entirely custom designed and built to be adju
 
 ## Digital Booklet 
 
-For more information, here is a [**digital booklet**](https://drive.google.com/file/d/1PjUFwsr2tn6brt4Zh3K7XaSyXV-yI2bK/view) with more details on the different components of the GIGA Node.
+For more information, here is a [*Digital Booklet*](https://drive.google.com/file/d/1PjUFwsr2tn6brt4Zh3K7XaSyXV-yI2bK/view) with more details on the different components of the GIGA Node.
 
 
