@@ -1,4 +1,4 @@
-# Welcome to GIGA Node!!!!!!!!!!!!!
+# Welcome to GIGA Node
 
 The **GIGA Node** is a design object meant to communicate through light and form the level of connectivity experienced by Schools around the Globe with the objective of promoting **transparency, accountability, and access** in all Schools connected through GIGA. GIGA is a partnership between UNICEF and ITU that aims to connect every school to the Internet, and every young person and their community to information, opportunity and choice. 
 
