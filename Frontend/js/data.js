@@ -10,8 +10,7 @@ function stats(){
   const date = new Date(timestamp);
 
   const content = obj[0].value.content.content;
-  const contentOBJ = JSON.parse(content);
-  const country = contentOBJ.client.country;
+  const country = content.client.country;
   const geo = obj[0].value.content.lat + " , " + obj[0].value.content.lon;
 
   document.getElementById("dataNode").innerHTML = date.toUTCString() + "<br>" + geo + " | " + country + " <br><br> ";
@@ -39,6 +38,7 @@ function status(){
     }
   }
   xhttp.open("GET", "data/status.json");
+  xhttp.setRequestHeader('Content-type','application/json');
   xhttp.send();
 }
 
