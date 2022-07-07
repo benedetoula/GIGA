@@ -1,0 +1,3 @@
+[submodule "gigaspeed"]
+	path = gigaspeed
+	url = git@github.com:myf/gigaspeed
