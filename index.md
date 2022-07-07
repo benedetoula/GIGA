@@ -24,11 +24,11 @@ The Hardware design is mainly comprised of 3 elements:
 
 For a detailed [*Bill Of Materials*](https://docs.google.com/spreadsheets/d/1M344BFzDwndOonXr7UBz_JfK02XLmgQRAvrM4X4WKnk/edit#gid=0) please check this document.
 
-The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy transport and deployment!
-
 ## Digital Booklet 
 
 For more information, here is a [**digital booklet**](https://drive.google.com/file/d/1PjUFwsr2tn6brt4Zh3K7XaSyXV-yI2bK/view) with more details on the different components of the GIGA Node.
+
+The enclosure of the GIGA Node was entirely custom designed and built to be adjustable, portable and transportable in a standard size carry-on for easy transport and deployment!
 
 
 
