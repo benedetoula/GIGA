@@ -12,12 +12,14 @@ function stats(){
   const content = obj[0].value.content.content;
   const country = content.client.country;
   const geo = obj[0].value.content.lat + " , " + obj[0].value.content.lon;
+  const download = obj[0].value.content.download / 10**3;
+  const upload = obj[0].value.content.upload / 10**3;
 
   document.getElementById("dataNode").innerHTML = date.toUTCString() + "<br>" + geo + " | " + country + " <br><br> ";
   document.getElementById("dataParse").innerHTML =  "<b>ISP</b> " + obj[0].value.content.isp + "<br>" +
-                                                    "<b>Download</b> " + obj[0].value.content.download + "<br>" +
-                                                    "<b>Upload</b> " + obj[0].value.content.upload + "<br>" +
-                                                    "<b>Latency </b> " + obj[0].value.content.ping;
+                                                    "<b>Download</b> " + `${(download > 10**3) ? `${(download / 10**3).toFixed(2)} MB` : `${download.toFixed(2)} KB`}`  + "<br>" +
+                                                    "<b>Upload</b> " + `${(upload > 10**3) ? `${(upload / 10**3).toFixed(2)} MB` : `${download.toFixed(2)} KB`}`  + "<br>" +
+                                                    "<b>Latency </b> " + `${obj[0].value.content.ping.toFixed(2)} Sec`;
   }
   xhttp.open("GET", "data/wat.json");
   xhttp.send();
